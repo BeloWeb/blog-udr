@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5) 50%,rgba(0,0,0,0.5) 50%), url(./images/fotocover.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5) 50%,rgba(0,0,0,0.5) 50%), url(fotocover.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -248,7 +248,7 @@ ul li a:hover{
     justify-content: center;
     align-items: center;
     Flex-direction:column;
-    background: url(./images/footer.jpg);
+    background: url(footer.jpg);
     background-size: cover;
 }
 
